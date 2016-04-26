@@ -1,6 +1,6 @@
 {
   "name": "node-fmpp",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "fmpp for node",
   "main": "index.js",
   "scripts": {
