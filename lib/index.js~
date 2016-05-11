@@ -22,6 +22,7 @@ module.exports = function() {
 
     var rdname = randomname();
     var tmpHtml = path.join(tmpDir, rdname + '.html');
+    var tmpHtml = path.join(tmpDir, rdname + '.html');
     var tmpTdd = path.join(tmpDir, rdname + '.tdd');
     var tmpConfig = path.join(tmpDir, rdname + '.fmpp');
 
